@@ -1,3 +1,5 @@
 A particle system runs in your Linux console.
-1.Make
+==============================
+# Instructions
+1.make
 2. ./par
